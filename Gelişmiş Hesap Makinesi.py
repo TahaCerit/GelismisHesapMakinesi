@@ -5,9 +5,7 @@ import math
 from math import *
 import time
 from math import *
-print("\n""""İŞLEMLER
-
-********
+print("\n""""İŞLEMLER\n********
 1-Toplama                                           (topla)
 2-Çıkarma                                           (çıkar)
 3-Çarpma                                            (çarp)
