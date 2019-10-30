@@ -4,7 +4,6 @@ print("*"*len(Ekran), Ekran, "*"*len(Ekran), sep="\n")
 import math
 from math import *
 import time
-from time import *
 print("\n""""İŞLEMLER\n********
 1-Toplama                                           (topla)
 2-Çıkarma                                           (çıkar)
