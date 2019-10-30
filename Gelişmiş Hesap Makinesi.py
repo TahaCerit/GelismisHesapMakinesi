@@ -1,4 +1,3 @@
-# Math modülündeki hazır fonksiyonları kullanarak gelişmiş bir hesap makinesi geliştirmeye çalışın.
 Ekran = "GELİŞMİŞ HESAP MAKİNESİ"
 print("*"*len(Ekran), Ekran, "*"*len(Ekran), sep="\n")
 
